@@ -1,0 +1,6 @@
+.DS_Store
+.clawhub/
+.openclaw/
+*.elf
+elf_parser
+test_parse
